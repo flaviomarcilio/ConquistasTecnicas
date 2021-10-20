@@ -8,6 +8,10 @@
 
    - [Instalando o Visual Studio e SDK](DigitalInnovationOne/3ACEBEDE.pdf)
    - [Resolvendo desafios de código em C#](DigitalInnovationOne/0183852E.pdf)
+   - [Criando um catálogo de jogos usando boas práticas de arquitetura com .NET](DigitalInnovationOne/9F2AE8F0.pdf)
+   - [Introdução ao ReactJS](DigitalInnovationOne/526B8CD3.pdf)
+   - [Desenvolvimento de aplicações para internet com ReactJS](DigitalInnovationOne/06DB9410.pdf)
+   - [Trabalhando com Componentes em React](DigitalInnovationOne/50F7EC4A.pdf)
 
 - ### Setembro
 
