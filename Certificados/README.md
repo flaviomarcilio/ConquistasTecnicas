@@ -4,13 +4,19 @@
 
 ## 2021
 
+- ### Novembro
+  
+   - [Criando um Front-End totalmente componentizado na prática com ReactJS](DigitalInnovationOne/EFF42103.pdf)
+
 - ### Outubro
 
-   - [Instalando o Visual Studio e SDK](DigitalInnovationOne/3ACEBEDE.pdf)
-   - [Resolvendo desafios de código em C#](DigitalInnovationOne/0183852E.pdf)
    - [Criando um catálogo de jogos usando boas práticas de arquitetura com .NET](DigitalInnovationOne/9F2AE8F0.pdf)
-   - [Introdução ao ReactJS](DigitalInnovationOne/526B8CD3.pdf)
    - [Desenvolvimento de aplicações para internet com ReactJS](DigitalInnovationOne/06DB9410.pdf)
+   - [Instalando o Visual Studio e SDK](DigitalInnovationOne/3ACEBEDE.pdf)
+   - [Introdução ao React Hooks](DigitalInnovationOne/9F5E0C26.pdf)
+   - [Introdução ao ReactJS](DigitalInnovationOne/526B8CD3.pdf)
+   - [Práticas Avançadas em projetos com ReactJS](DigitalInnovationOne/1249046F.pdf)
+   - [Resolvendo desafios de código em C#](DigitalInnovationOne/0183852E.pdf)
    - [Trabalhando com Componentes em React](DigitalInnovationOne/50F7EC4A.pdf)
 
 - ### Setembro
