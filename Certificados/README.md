@@ -7,6 +7,7 @@
 - ### Novembro
   
    - [Criando um Front-End totalmente componentizado na prática com ReactJS](DigitalInnovationOne/EFF42103.pdf)
+   - [Take Blip Fullstack Developer #2](DigitalInnovationOne/D0BF425B.pdf)
 
 - ### Outubro
 
