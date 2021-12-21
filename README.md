@@ -5,5 +5,11 @@
 ---
 ## Index
 
+### Bootcamps
+[Bootcamps](Bootcamps/README.md) - Seção com os bootcamps finalizados e em andamento
+
+### Cursos
+[Cursos](Cursos/README.md) - Seção com os cursos finalizados e em andamento
+
 ### Certificados
-[Certificados de Conclusão](Certificados/README.md) - Diretório com meus certificados
+[Certificados de Conclusão](Certificados/README.md) - Seção com meus certificados obtidos pela finalização de cursos e bootcamps
