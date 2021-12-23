@@ -5,6 +5,10 @@
 - [Lógica de Programação Essencial](#lógica-de-programação-essencial)
 - [Aprenda o que são Estruturas de Dados e Algoritmos](#aprenda-o-que-são-estruturas-de-dados-e-algoritmos)
 - [Introdução ao Git e ao GitHub](#introdução-ao-git-e-ao-github)
+- [IDE Instalação e Configuração (Visual Studio)](#ide-instalação-e-configuração-visual-studio)
+- [Introdução ao C# e .NET](#introdução-ao-c-e-net)
+- [Primeiros passos com .NET](#primeiros-passos-com-net)
+- [Programando com Orientação a Objeto com C](#programando-com-orientação-a-objeto-com-c)
 
 [Início](../README.md)
 
@@ -57,3 +61,99 @@
   - Trabalhando com o GitHub
 - Resolvendo conflitos
   - Como os conflitos acontecem no GitHub e como resolvê-los
+
+## IDE Instalação e Configuração (Visual Studio)
+- Instalando e conhecendo a IDE
+  - Apresentação do curso
+  - Instalação do Visual Studio para Windows
+- Gerando código e debugging
+  - Gerando código e debugging
+- Integracação com Git e GitHub
+  - Integração com Git e GitHub
+- Criando testes
+  - Testes
+
+## Introdução ao C# e .NET
+- Criando o primeiro projeto em C#
+  - Apresentação do curso
+  - Criando seu primeiro projeto em C#
+  - Na prática
+- Estruturas
+  - Namespaces
+  - Classes
+  - Interface
+  - Enum
+- Debugging
+  - Debugging
+
+## Primeiros passos com .NET
+- O que é .NET?
+  - Conhecendo o framework
+  - Como e onde usar .NET
+- Iniciando com .NET
+  - Preparando o ambiente
+  - Conhecendo a CLI do .NET
+  - Criando uma aplicação console
+- Conhecendo o C#
+  - O que é e como funciona o C#
+  - Estrutura do programa
+- Conhecendo variáveis e instruções
+  - Tipos de valor
+  - Utilizando instruções em programas
+  - Exemplificando o conteúdo
+- Classes e objetos essenciais em C#
+  - O que são classes e objetos em C#
+  - Como aplicar classes e objetos em projetos
+- Trabalhando com structs, interfaces e enums
+  - O que são structs
+  - Entendendo a função de interfaces e enums
+- Uma síntese do que é .NET
+  - Revisão introdutória
+  - Praticando primeiros passos
+  - Dinâmica de desenvolvimento
+
+## Programando com Orientação a Objeto com C#
+- Introdução
+  - Introdução ao curso
+- Conhecendo a programação orientada a objetos
+  - [Apresentando a programação orientada a objetos](notas/POO.md#poo)
+  - [Tipos de paradigmas](notas/ProgrammingParadigms.md)
+- Abstração
+  - Entendendo o que é abstração
+  - Requisitos para o projeto
+  - Abstração na prática
+- Encapsulamento
+  - Introdução ao encapsulamento
+  - Encapsulamento na prática
+- Herança
+  - Introdução à herança
+  - Herança na prática
+- Polimorfismo
+  - Introdução ao polimorfismo
+  - Polimorfismo em tempo de execução
+  - Polimorfismo em tempo de compilação
+- Classes abstratas
+  - Introdução a classes abstratas
+  - Classes abstratas na prática
+  - Introdução métodos selados
+  - Métodos selados na prática
+  - Introdução classe object
+  - Classe object na prática
+- Interfaces
+  - Introdução a interfaces
+  - Interfaces na prática
+  - Interfaces com implementação de métodos
+- Manipulando arquivos
+  - Introdução
+  - Listar diretórios
+  - Listar arquivos
+  - Criar diretório
+  - Apagar diretório
+  - Criar arquivo texto
+  - Criar arquivo texto com stream
+  - Adicionar novas linhas em um arquivo
+  - Lendo arquivos
+  - Movendo arquivo
+  - Copiando arquivo
+  - Deletando arquivo
+
