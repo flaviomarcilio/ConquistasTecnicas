@@ -6,6 +6,12 @@
 
 ## 2021
 
+- ### Dezembro
+  - [Criando seu primeiro repositório no GitHub para compartilhar seu progresso](DigitalInnovationOne/F0C1A12D.pdf)
+  - [IDE Instalação e Configuração (Visual Studio)](DigitalInnovationOne/2BBCB884.pdf)
+  - [Introdução ao C# e .NET](DigitalInnovationOne/BC2C50AA.pdf)
+  - [Programando com Orientação a Objeto com C#](DigitalInnovationOne/755BFF4F.pdf)
+
 - ### Novembro
   
    - [Criando um Front-End totalmente componentizado na prática com ReactJS](DigitalInnovationOne/EFF42103.pdf)

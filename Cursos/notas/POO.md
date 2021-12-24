@@ -16,3 +16,5 @@ A POO é um paradigma de programação baseado no conceito de "objetos", que pod
   > a) Polimorfismo ad hoc: define uma interface comum para um conjunto arbitrário de tipos especificados individualmente.
   > b) Polimorfismo paramétrico: quando um ou mais tipos não são especificados pelo nome, mas por símbolos abstratos que podem representar qualquer tipo.
   > c) Subtipagem (também chamado de polimorfismo de subtipo ou polimorfismo de inclusão): quando um nome denota instâncias de muitas classes diferentes relacionadas por alguma superclasse comum. Fonte: [Wikipédia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+[Volta](../README.md#programando-com-orientação-a-objeto-com-c)

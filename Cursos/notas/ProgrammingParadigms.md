@@ -10,3 +10,5 @@ Um paradigma é um modelo de técnicas, estruturas e formas de solucionar um pro
 - Declarativo
   - Programação Funcional
   - Programação Lógica
+
+[Volta](../README.md#programando-com-orientação-a-objeto-com-c)
