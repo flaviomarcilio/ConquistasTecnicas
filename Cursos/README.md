@@ -9,6 +9,8 @@
 - [Introdução ao C# e .NET](#introdução-ao-c-e-net)
 - [Primeiros passos com .NET](#primeiros-passos-com-net)
 - [Programando com Orientação a Objeto com C](#programando-com-orientação-a-objeto-com-c)
+- [Construtores, Propriedades, Delegates e Eventos em .NET](#construtores-propriedades-delegates-e-eventos-em-net)
+- [Criando o ambiente de desenvolvimento](#criando-o-ambiente-de-desenvolvimento)
 
 [Início](../README.md)
 
@@ -26,6 +28,8 @@
   - Trabalhando com laços de repetição em Portugol
   - Aplicação prática com matrizes e vetores
 
+[Sumário](#sumário)
+
 ## Aprenda o que são Estruturas de Dados e Algoritmos
 - Conceitos iniciais sobre estruturas de dados, arrays e registro
   - Introdução e objetivos
@@ -42,6 +46,8 @@
   - O que são árvores
   - O que são tabelas hash
   - O que são grafos
+
+[Sumário](#sumário)
 
 ## Introdução ao Git e ao GitHub
 - Introdução ao Git
@@ -62,6 +68,8 @@
 - Resolvendo conflitos
   - Como os conflitos acontecem no GitHub e como resolvê-los
 
+[Sumário](#sumário)
+
 ## IDE Instalação e Configuração (Visual Studio)
 - Instalando e conhecendo a IDE
   - Apresentação do curso
@@ -72,6 +80,8 @@
   - Integração com Git e GitHub
 - Criando testes
   - Testes
+
+[Sumário](#sumário)
 
 ## Introdução ao C# e .NET
 - Criando o primeiro projeto em C#
@@ -85,6 +95,8 @@
   - Enum
 - Debugging
   - Debugging
+
+[Sumário](#sumário)
 
 ## Primeiros passos com .NET
 - O que é .NET?
@@ -110,7 +122,9 @@
 - Uma síntese do que é .NET
   - Revisão introdutória
   - Praticando primeiros passos
-  - Dinâmica de desenvolvimento
+  - Dinâmica de 
+  
+[Sumário](#sumário)
 
 ## Programando com Orientação a Objeto com C#
 - Introdução
@@ -156,4 +170,49 @@
   - Movendo arquivo
   - Copiando arquivo
   - Deletando arquivo
+
+[Sumário](#sumário)
+
+## Construtores, Propriedades, Delegates e Eventos em .NET
+- Introdução
+  - Introdução
+- [Construtores](notas/Constructors.md)
+  - Introdução
+  - Requisitos
+  - Criando nosso projeto
+  - Construtor na prática
+  - Construtor padrão
+  - Construtor privado
+  - Chamando o construtor da herança
+- Getters e Setters
+  - Introdução Get e Set
+  - Get e Set na prática
+  - Propriedades
+- Modificadores
+  - Introdução readonly
+  - Readonly na prática
+  - Introdução constante
+  - Constante na prática
+- Delegates
+  - Introdução delegate
+  - Delegate na prática
+  - Multicast Delegate
+- Eventos
+  - Introdução eventos
+  - Eventos na prática
+
+[Sumário](#sumário)
+
+## Criando o ambiente de desenvolvimento
+- Instalação do .NET
+  - Apresentação do curso
+  - Instalando o .NET
+- Net Framework, Core e 5
+  - Diferenças entre .NET Framework, Core e 5
+- Framework e Runtime
+  - Framework e Runtime
+- Conhecendo a CLI do .NET
+  - Conhecendo a CLI do .NET
+
+[Sumário](#sumário)
 

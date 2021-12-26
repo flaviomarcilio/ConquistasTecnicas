@@ -7,6 +7,8 @@
 ## 2021
 
 - ### Dezembro
+  - [Construtores, propriedades, delegates e eventos em .NET](DigitalInnovationOne/96148008.pdf)
+  - [Criando o ambiente de desenvolvimento](DigitalInnovationOne/86E01A86.pdf)
   - [Criando seu primeiro repositório no GitHub para compartilhar seu progresso](DigitalInnovationOne/F0C1A12D.pdf)
   - [IDE Instalação e Configuração (Visual Studio)](DigitalInnovationOne/2BBCB884.pdf)
   - [Introdução ao C# e .NET](DigitalInnovationOne/BC2C50AA.pdf)
