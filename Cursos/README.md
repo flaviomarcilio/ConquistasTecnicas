@@ -11,6 +11,7 @@
 - [Programando com Orientação a Objeto com C](#programando-com-orientação-a-objeto-com-c)
 - [Construtores, Propriedades, Delegates e Eventos em .NET](#construtores-propriedades-delegates-e-eventos-em-net)
 - [Criando o ambiente de desenvolvimento](#criando-o-ambiente-de-desenvolvimento)
+- [Fundamentos de Coleções e LINQ com .NET](#fundamentos-de-coleções-e-linq-com-net)
 
 [Início](../README.md)
 
@@ -213,6 +214,56 @@
   - Framework e Runtime
 - Conhecendo a CLI do .NET
   - Conhecendo a CLI do .NET
+
+[Sumário](#sumário)
+
+## [Fundamentos de Coleções e LINQ com .NET](notas/CollectionsBasics.md)
+- Introdução
+  - Introdução ao curso
+- Arrays
+  - Introdução Arrays
+  - Requisitos
+  - Criando nosso projeto
+  - Criando e percorrendo um array
+  - Acessando um array de forma segura
+  - Array multidimensional
+- Manipulando Arrays
+  - Algoritmos de ordenação
+  - Ordenando via Bubble sort
+  - Debugando o método bubble sort
+  - A classe Array
+  - Ordenando pela classe Array
+  - Copiando um Array
+  - Verificando um elemento existente
+  - Verificando todos os elementos do array
+  - Encontrando um elemento no array
+  - Encontrando o índice de um valor
+  - Redimensionando um array
+  - Convertendo um array
+- Coleções Genéricas
+  - Introdução
+  - Declarando e acessando uma lista
+  - Removendo elemento da lista
+  - Adicionando coleções na lista
+  - Adicionando elemento por índice
+- Coleções específicas
+  - Introdução
+  - Introdução a Fila
+  - Filas na prática
+  - Introdução a Pilha
+  - Pilhas na prática
+- Dicionários
+  - Introdução
+  - Dicionário na prática
+  - Acessando um valor
+  - Atualizando um valor
+  - Removendo um valor
+  - Acessando de maneira segura
+- Operações LINQ
+  - Introdução
+  - Obtendo e ordenando valores com LINQ
+  - Valores mínimo, máximo e médio com LINQ
+  - Sum e Distinct
 
 [Sumário](#sumário)
 
