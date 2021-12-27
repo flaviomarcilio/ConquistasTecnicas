@@ -12,6 +12,7 @@
 - [Construtores, Propriedades, Delegates e Eventos em .NET](#construtores-propriedades-delegates-e-eventos-em-net)
 - [Criando o ambiente de desenvolvimento](#criando-o-ambiente-de-desenvolvimento)
 - [Fundamentos de Coleções e LINQ com .NET](#fundamentos-de-coleções-e-linq-com-net)
+- [Introdução a Microsserviços com .NET](#introdução-a-microsserviços-com-net)
 
 [Início](../README.md)
 
@@ -267,3 +268,13 @@
 
 [Sumário](#sumário)
 
+## [Introdução a Microsserviços com .NET](notas/Microservices.md)
+- O que são microsserviços
+  - Conceitos iniciais sobre microsserviços e monolitos
+  - Pensando em escalabilidade vertical x horizontal
+  - Visão geral sobre o Manifesto Ágil e ciclos de desenvolvimento
+  - Ecossistema de microsserviços
+  - O que é uma API Pública e como se interagem
+  - Como dividir um monolito em microsserviços
+
+[Sumário](#sumário)
