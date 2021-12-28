@@ -13,6 +13,7 @@
 - [Criando o ambiente de desenvolvimento](#criando-o-ambiente-de-desenvolvimento)
 - [Fundamentos de Coleções e LINQ com .NET](#fundamentos-de-coleções-e-linq-com-net)
 - [Introdução a Microsserviços com .NET](#introdução-a-microsserviços-com-net)
+- [Introdução a Design Patterns com .NET](#introdução-a-design-patterns-com-net)
 
 [Início](../README.md)
 
@@ -276,5 +277,22 @@
   - Ecossistema de microsserviços
   - O que é uma API Pública e como se interagem
   - Como dividir um monolito em microsserviços
+
+[Sumário](#sumário)
+
+## [Introdução a Design Patterns com .NET](notas/DesignPatterns.md)
+- Conceitos iniciais para o desenvolvimento
+  - Apresentação inicial
+  - Overview RideSharing
+  - O que é Design Patterns
+  - Criando o projeto e ambiente com Swagger
+  - Primeiros passos no desenvolvimento na classe Singleton
+- Aprofundando nos Padrões de Projetos
+  - Entendendo o padrão Repositoy na prática
+  - Simulando banco de dados com InMemoryRepository
+  - Exemplo de implementação com Entity Framework
+  - Implementação do padrão Facade
+  - Revisão e comentários sobre o conteúdo prático
+  - Dicas e dúvidas finais
 
 [Sumário](#sumário)
