@@ -14,6 +14,9 @@
 - [Fundamentos de Coleções e LINQ com .NET](#fundamentos-de-coleções-e-linq-com-net)
 - [Introdução a Microsserviços com .NET](#introdução-a-microsserviços-com-net)
 - [Introdução a Design Patterns com .NET](#introdução-a-design-patterns-com-net)
+- [SQL Server - Criando suas primeiras consultas](#sql-server---criando-suas-primeiras-consultas)
+- [Modelando um banco de dados na prática com SQL Server](#modelando-um-banco-de-dados-na-prática-com-sql-server)
+- [SQL Server: Boas práticas em bancos relacionais](#sql-server-boas-práticas-em-bancos-relacionais)
 
 [Início](../README.md)
 
@@ -133,7 +136,7 @@
 - Introdução
   - Introdução ao curso
 - Conhecendo a programação orientada a objetos
-  - [Apresentando a programação orientada a objetos](notas/POO.md#poo)
+  - [Apresentando a programação orientada a objetos](notas/POO.md)
   - [Tipos de paradigmas](notas/ProgrammingParadigms.md)
 - [Abstração](notas/POO.md#1-abstração)
   - Entendendo o que é abstração
@@ -294,5 +297,57 @@
   - Implementação do padrão Facade
   - Revisão e comentários sobre o conteúdo prático
   - Dicas e dúvidas finais
+
+[Sumário](#sumário)
+
+## SQL Server - Criando suas primeiras consultas
+- O que é o SQL Server?
+  - O que é SQL Serve
+  - Representação de um banco de dados relacional e consistência de dados
+- Instalando o SQL Server
+  - Intalação do SQL Server 2019 Express Edition
+  - Visão geral fo Microsoft SQL Server Management Studio
+- Intalando o SQL Server Management Studio e criando o primeiro banco de dados
+  - Conceitos iniciais de criação de tabelas
+  - Criando as tabelas para o curso
+- Primeiras instruções SQL
+  - Comando Isert, Select, Update, Delete
+  - Especificidades do comando Select
+- Normalizando dados
+  - O que são chaves primárias e estrangeiras
+  - As fases de normalização de dados
+- Trabalhando com tabelas relacionadas
+  - Introdução ao comando Join
+  - Aprofundando nos comandos Join e GroupBy
+
+[Sumário](#sumário)
+
+## Modelando um banco de dados na prática com SQL Server
+- Criando as tabelas relacionadas do projeto
+  - Apresentação do tema, da API e a organização das tabelas
+  - Comando Create Table e criação da primeira tabela Planetas
+  - Criação da tabela Naves e a Pilotos
+  - Criação da tabela PilotosNaves e finalizar implementação de foreign keys
+- Implementação da Interface
+  - Apresentação da estrutura de código API e formulários
+  - Interface de controle de naves e pilotos
+  - Exemplos de sincronia da interface com o banco de dados - Parte 1
+  - Exemplos de sincronia da interface com o banco de dados - Parte 2
+  - Dicas finas sobre boas práticas para criação de tabelas
+
+[Sumário](#sumário)
+
+## SQL Server: Boas práticas em bancos relacionais
+- Apresentação e objetivos do curso
+- Questões sobre boas práticas com frameworks e consulta de dados
+- Trabalhando com chaves estrangeiras e dados relacionais
+- Como tudo isso funciona no mundo real
+- O funcionamento de um banco de dados - Parte 1
+- O funcionamento de um banco de dados - Parte 2
+- Como criar índices e realizar inserts
+- Realizando inserts em campos específicos
+- Implementando funcionalidades
+- Criando a tabela ESTOQUE
+- Finalizando alterações nas tabelas segundo boas práticas
 
 [Sumário](#sumário)

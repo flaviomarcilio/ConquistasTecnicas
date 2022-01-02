@@ -4,6 +4,12 @@
 
 # Digital Innovation One
 
+## 2022
+
+- ### Janeiro
+  - [Modelando um banco de dados na prática com SQL SERVER](DigitalInnovationOne/65B66F47.pdf)
+  - [SQL Server: Boas práticas em bancos relacionais](DigitalInnovationOne/DC049345.pdf)
+
 ## 2021
 
 - ### Dezembro
