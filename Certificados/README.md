@@ -2,6 +2,14 @@
 
 [Início](../../ConquistasTecnicas/README.md)
 
+# Alura
+
+## 2022
+
+- ### Janeiro
+  - [SQL Server: Introdução ao SQL com Microsoft SQL Server 2017](Alura/6602681a-4dbb-4834-b11d-cc6d71e5ed42.pdf)
+  - [SQL Server: Consultas Avançadas com Microsoft SQL Server 2017](Alura/f3cb2666-06bc-4673-8343-a2635340295f.pdf)
+
 # Digital Innovation One
 
 ## 2022

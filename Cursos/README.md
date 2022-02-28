@@ -17,6 +17,9 @@
 - [SQL Server - Criando suas primeiras consultas](#sql-server---criando-suas-primeiras-consultas)
 - [Modelando um banco de dados na prática com SQL Server](#modelando-um-banco-de-dados-na-prática-com-sql-server)
 - [SQL Server: Boas práticas em bancos relacionais](#sql-server-boas-práticas-em-bancos-relacionais)
+- [SQL Server: Introdução ao SQL com Microsoft SQL Server 2017](#sql-server-introdução-ao-sql-com-microsoft-sql-server-2017)
+- [SQL Server: Consultas avançadas com Microsoft SQL Server 2017](#sql-server-consultas-avançadas-com-microsoft-sql-server-2017)
+- [[SQL Server: Manipulação de Dados com o Microsoft SQL Server 2017]](#sql-server-manipulação-de-dados-com-o-microsoft-sql-server-2017)
 
 [Início](../README.md)
 
@@ -300,9 +303,9 @@
 
 [Sumário](#sumário)
 
-## SQL Server - Criando suas primeiras consultas
+## [SQL Server - Criando suas primeiras consultas](notas/SQL.md)
 - O que é o SQL Server?
-  - O que é SQL Serve
+  - O que é SQL Server
   - Representação de um banco de dados relacional e consistência de dados
 - Instalando o SQL Server
   - Intalação do SQL Server 2019 Express Edition
@@ -322,7 +325,7 @@
 
 [Sumário](#sumário)
 
-## Modelando um banco de dados na prática com SQL Server
+## [Modelando um banco de dados na prática com SQL Server](notas/SQL.md)
 - Criando as tabelas relacionadas do projeto
   - Apresentação do tema, da API e a organização das tabelas
   - Comando Create Table e criação da primeira tabela Planetas
@@ -337,7 +340,7 @@
 
 [Sumário](#sumário)
 
-## SQL Server: Boas práticas em bancos relacionais
+## [SQL Server: Boas práticas em bancos relacionais](notas/SQL.md)
 - Apresentação e objetivos do curso
 - Questões sobre boas práticas com frameworks e consulta de dados
 - Trabalhando com chaves estrangeiras e dados relacionais
@@ -351,3 +354,29 @@
 - Finalizando alterações nas tabelas segundo boas práticas
 
 [Sumário](#sumário)
+
+## [SQL Server: Introdução ao SQL com Microsoft SQL Server 2017](notas/SQL.md)
+- Instalando e configurando o SQL Server
+- Manipulando o Banco de Dados
+- Gerenciando as tabelas do Banco de Dados
+- Manutenção dos dados nas tabelas
+- Consultando os dados
+
+[Sumário](#sumário)
+
+## [SQL Server: Consultas avançadas com Microsoft SQL Server 2017](notas/SQL.md)
+- Configurando ambiente e conhecendo o SQL
+- Filtrando as consultas de dados
+- Mudando a apresentação dos dados de uma consulta
+- Juntando tabelas e consultas
+- Funções do SQL Server
+- Exemplo de relatórios
+
+[Sumário](#sumário)
+
+## [SQL Server: Manipulação de Dados com o Microsoft SQL Server 2017]
+- Modelagem do Banco de Dados
+- Criando a estrutura do Banco de Dados
+- Incluindo dados nas tabelas
+- Alterando e escluindo dados das tabelas
+- Auto-incremento, padrões e triggers
