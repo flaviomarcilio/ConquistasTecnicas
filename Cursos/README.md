@@ -19,7 +19,8 @@
 - [SQL Server: Boas práticas em bancos relacionais](#sql-server-boas-práticas-em-bancos-relacionais)
 - [SQL Server: Introdução ao SQL com Microsoft SQL Server 2017](#sql-server-introdução-ao-sql-com-microsoft-sql-server-2017)
 - [SQL Server: Consultas avançadas com Microsoft SQL Server 2017](#sql-server-consultas-avançadas-com-microsoft-sql-server-2017)
-- [[SQL Server: Manipulação de Dados com o Microsoft SQL Server 2017]](#sql-server-manipulação-de-dados-com-o-microsoft-sql-server-2017)
+- [SQL Server: Manipulação de Dados com o Microsoft SQL Server 2017](#sql-server-manipulação-de-dados-com-o-microsoft-sql-server-2017)
+- [SQL Server: T-SQL com Microsoft SQL Server 2017](#sql-server-t-sql-com-microsoft-sql-server-2017)
 
 [Início](../README.md)
 
@@ -374,9 +375,21 @@
 
 [Sumário](#sumário)
 
-## [SQL Server: Manipulação de Dados com o Microsoft SQL Server 2017]
+## [SQL Server: Manipulação de Dados com o Microsoft SQL Server 2017](notas/SQL.md)
 - Modelagem do Banco de Dados
 - Criando a estrutura do Banco de Dados
 - Incluindo dados nas tabelas
-- Alterando e escluindo dados das tabelas
+- Alterando e excluindo dados das tabelas
 - Auto-incremento, padrões e triggers
+
+[Sumário](#sumário)
+
+## [SQL Server: T-SQL com Microsoft SQL Server 2017](notas/SQL.md)
+- Introdução ao T-SQL
+- Elementos do T-SQL
+- Escrevendo funções
+- Stored Procedures
+- Tratamento de erros
+- Cursor e um exemplo prático
+
+[Sumário](#sumário)

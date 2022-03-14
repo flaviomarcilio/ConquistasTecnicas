@@ -1,10 +1,14 @@
 <h1 align = "center">Certificados de conclusão</h1>
 
-[Início](../../ConquistasTecnicas/README.md)
+[Início](../README.md)
 
 # Alura
 
 ## 2022
+
+- ### Março
+  - [SQL Server: Manipulação de Dados com Micorsoft SQL Server 2017](Alura/ef3bfba9-5ab2-4412-8cce-838709ca5668.pdf)
+  - [SQL Server: T-SQL com Microsoft SQL Server 2017](Alura/0ab2f4af-790a-4e65-84a9-6063c2472f87.pdf)
 
 - ### Janeiro
   - [SQL Server: Introdução ao SQL com Microsoft SQL Server 2017](Alura/6602681a-4dbb-4834-b11d-cc6d71e5ed42.pdf)
