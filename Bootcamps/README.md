@@ -4,6 +4,7 @@
 - [Sumário](#sumário)
 - [Decola Tech 2ª edição](#decola-tech-2ª-edição)
 - [Inter FrontEnd Developer](#inter-frontend-developer)
+- [SQL com Microsoft SQL Server 2017](#sql-com-microsoft-sql-server-2017)
 
 
 [Início](../README.md)
@@ -80,5 +81,14 @@
 - Microsserviços e Integrações com Node.js
 - Mentoria #5: Consumindo APIs feitas em NodeJS em um Frontend com Experts do INTER
 - Integrando um Backend em Node.js com um Frontend em React para um E-commerce
+
+[Sumário](#sumário)
+
+## [SQL com Microsoft SQL Server 2017](../Certificados/Alura/82c9909c-0c9f-4d92-9c53-46e5c1781728.pdf)
+- SQL Server: Introdução ao SQL com Microsoft SQL Server 2017
+- SQL Server: Consultas avançadas com Microsoft SQL Server 2017
+- SQL Server: Manipulação de dados com Microsoft SQL Server 2017
+- SQL Server: T-SQL com Microsoft SQL Server 2017
+- SQL Server: Administração do Microsoft SQL Server 2017
 
 [Sumário](#sumário)

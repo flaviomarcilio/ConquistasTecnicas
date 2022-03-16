@@ -9,6 +9,7 @@
 - ### Março
   - [SQL Server: Manipulação de Dados com Micorsoft SQL Server 2017](Alura/ef3bfba9-5ab2-4412-8cce-838709ca5668.pdf)
   - [SQL Server: T-SQL com Microsoft SQL Server 2017](Alura/0ab2f4af-790a-4e65-84a9-6063c2472f87.pdf)
+  - [SQL Server: Administração do Microsoft SQL Server 2017](Alura/e6b83278-f016-4e64-94f8-9e3e22a3de57.pdf)
 
 - ### Janeiro
   - [SQL Server: Introdução ao SQL com Microsoft SQL Server 2017](Alura/6602681a-4dbb-4834-b11d-cc6d71e5ed42.pdf)

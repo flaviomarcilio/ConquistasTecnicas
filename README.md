@@ -5,7 +5,7 @@
 ---
 ## Index
 
-### Bootcamps
+### Bootcamps/Formações
 [Bootcamps](Bootcamps/README.md) - Seção com os bootcamps finalizados e em andamento
 
 ### Cursos

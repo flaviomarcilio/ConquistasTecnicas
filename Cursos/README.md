@@ -21,6 +21,7 @@
 - [SQL Server: Consultas avançadas com Microsoft SQL Server 2017](#sql-server-consultas-avançadas-com-microsoft-sql-server-2017)
 - [SQL Server: Manipulação de Dados com o Microsoft SQL Server 2017](#sql-server-manipulação-de-dados-com-o-microsoft-sql-server-2017)
 - [SQL Server: T-SQL com Microsoft SQL Server 2017](#sql-server-t-sql-com-microsoft-sql-server-2017)
+- [SQL Server: Administração do Microsoft SQL Server 2017](#sql-server-administração-do-microsoft-sql-server-2017)
 
 [Início](../README.md)
 
@@ -391,5 +392,14 @@
 - Stored Procedures
 - Tratamento de erros
 - Cursor e um exemplo prático
+
+[Sumário](#sumário)
+
+## [SQL Server: Administração do Microsoft SQL Server 2017](notas/SQL.md)
+- Apresentação e entendendo o papel do DBA
+- Estrutura da base de dados
+- Autenticação e Autorização
+- Melhorando desempenho com índices
+- Plano de consultas
 
 [Sumário](#sumário)
